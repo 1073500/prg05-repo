@@ -87,7 +87,7 @@ Functie altijd te herkennen aan: showFunction(,)
 Installatie:
 
 Eerste error, omdat ik dacht dat de tutorial vanaf scatch begon :|
-Status: na 2 errors gelukt!
+Status: na 2 errors en hulp van Bob gelukt!
 
 View aanmaken: Op string bij return view hoveren en dan in context menu view aanmaken
 
@@ -124,5 +124,12 @@ class UserController extends Controller implements HasMiddleware
     // ...
 }
 
+----------------------------------------------------------------+
+Verloop:
 
+Ondezoek Lavarel:
+Onderzoek Lavarel was eerst nog onduidelijk, omdat het compleet nieuw voor mij was. 
+Alles liep uiteindelijk goed, maar het aanmaken van de controller is nog onduidelijk voor mij.
+
+Onderzoek frameworks:
 
