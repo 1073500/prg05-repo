@@ -195,12 +195,21 @@ Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, 
 *CakePHP: turtorial 
 
 Installatie:
+De installatie verliep gemakkelijk, vooral door de turtorial.
 
 Leercurve: 
 
 Ondersteuning:
 > https://www.youtube.com/watch?v=lZweiKSw1cI
+Installatie pagina cakephp
 
 
 
-Nest.js:
+*Nest.js:
+
+Installatie:
+
+Leercurve: 
+
+Ondersteuning:
+
