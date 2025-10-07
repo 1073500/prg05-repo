@@ -142,21 +142,22 @@ Mogelijke frameworks: React, Vue, Angular.js, Backbone.js...
 *https://squashapps.com/blog/javascript-mvc-frameworks/
 *https://acropolium.com/blog/most-popular-backend-frameworks-in-2021-2022-pros-and-cons-what-to-choose/
 --------------------------------------------------------------------------------+
+Les 2
+------------------------------------------+
 Longlist: Waarom ...? + pro's en con's
 
 1.React:
 + high performance, flexibel, grote community
 - het werkt met JSX en niet gewoon met JS
-2.Vue:
-+ Makkelijke leercurve, zeer flexibel
-- kleine community
-3.Angular.js:
-+ heeft van zichzelf al form validation, makkelijk te debuggen
-- hoge leercurve, werkt lastig met te veel data, kan gebruikt worden voor backend maar niet aanbevolen.
-*https://medium.com/@infiraise/is-angular-frontend-or-backend-816ee236f592
-4.Backbone.js:'
-+ wordt gebruikt door grote webapps zoals Wordpress en Hulu, makkelijk te begrijpen en een oke leercurve
-- heeft plugins nodig om compleet te zijn
+2. Spring
++ Weinig tijd nodig
+- Java, te complex
+3. Ruby on Rails
++ een oke leercurve, oke performance, goed voor web applications en een grote community
+- kan langzaam zijn
+4. Flask
++ 
+- 
 5. Django
 + lage leercurve dus makkelijk te gebruiken, heeft een build in bescherming tegen sql injections en cross-scripting. 
 - kost tijd en je hebt kennis nodig, python
@@ -166,9 +167,9 @@ Longlist: Waarom ...? + pro's en con's
 7. Express (met Node.js)
 + Makkelijke leercurve vooral als je al met js werkt, high performance, code kan gerunt worden op elke platform.
 - Asynchronous programming
-8. Ionic
-+ gebaseerd op html en css, gebruikersvriendelijk, grote aanbod van api's.
-- zware app door grote file sizes, live reloading, grotere platforms zijn lastiger te maken.
+8. Nest.js
++ 
+- 
 
 
 Shortlist: Waarom ...? + pro's en con's
@@ -177,10 +178,8 @@ Laravel:
 + beste backend framework van 2023, gebruikers authenticatie is simpel, API integrations voor mail service, simpele data catching
 - heel veel functies zijn lastig, waardoor de leercurve moeilijker wordt.
 
-Vue: 
-Ik heb gekozen voor vue, omdat de pro's heel goed zijn ten opzichte van de con's. Het feit dat Vue een kleine community heeft vind ik niet heel erg.
+Express: 
 
-Backbone.js: 
-Backbone wordt gebruikt door gote webapps dus is de communitty ook groter en daarbij heeft het een makkelijke leercurves. Het niet erg om wat plugins erbij te downloaden.
 
+Ruby: 
 
