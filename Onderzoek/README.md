@@ -79,6 +79,8 @@ Hij verwerkt alle logics en request en manipuleert data via de model.
 Met de view rendert hij een een final output.
 --------------------------------------------------------------------------+
 Les 1 > https://brightspace.hr.nl/d2l/le/lessons/192850/topics/919243
+
+-----------------------------------------------------------------------+
 Herhaling:
 
 Functie altijd te herkennen aan: showFunction(,)
@@ -145,7 +147,7 @@ Mogelijke frameworks: React, Vue, Angular.js, Backbone.js...
 --------------------------------------------------------------------------------+
 Les 2
 ------------------------------------------+
-Longlist: Waarom ...? + pro's en con's
+*Longlist: Waarom ...? + pro's en con's
 
 reserve voor longlist: Phalcon, FuelPHP, Symfony
 
@@ -175,7 +177,7 @@ reserve voor longlist: Phalcon, FuelPHP, Symfony
 - security problemen, errors zijn lastig te debuggen.
 
 
-Shortlist: Waarom ...? + pro's en con's
+*Shortlist: Waarom ...? + pro's en con's
 
 Laravel:
 + beste backend framework van 2023, gebruikers authenticatie is simpel, API integrations voor mail service, simpele data catching
@@ -186,4 +188,19 @@ CakePHP:
 
 Nest.js: 
 Nest js gebruikt typescript (js) en ik verwacht dat het een makkelijke leercurve heeft.
+-------------------------------------------------------------------------------------------+
+Verkenning 2 frameworks:
+Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, tutorial, community)
 
+*CakePHP: turtorial 
+
+Installatie:
+
+Leercurve: 
+
+Ondersteuning:
+> https://www.youtube.com/watch?v=lZweiKSw1cI
+
+
+
+Nest.js:
