@@ -133,13 +133,33 @@ Alles liep uiteindelijk goed, maar het aanmaken van de controller is nog onduide
 
 Onderzoek frameworks:
 
-Ik ga eerst kijken naar 4 mogelijke frameworks om er2 te laten vallen.
+Ik ga eerst kijken naar 8 mogelijke frameworks om er 6 te laten vallen.
 De taal is belangrijk, want ik ben bijvoorbeeld niet bekend met Ruby of Python, dus ga ik ook niet kiezen voor die frameworks.
 Hierom ga ik kijken naar frameworks die js als taal gebruiken en MVC volgen.
 
 Mogelijke frameworks: React, Vue, Angular.js, Backbone.js
-https://astro.deployn.de/blog/comparing-mvc-frameworks/
-https://centralsoft.io/en/blog/posts/what-are-some-of-the-frameworks-that-follow-mvc-architectural-pattern#laravel
-https://squashapps.com/blog/javascript-mvc-frameworks/
+*https://astro.deployn.de/blog/comparing-mvc-frameworks/
+*https://centralsoft.io/en/blog/posts/what-are-some-of-the-frameworks-that-follow-mvc-architectural-pattern#laravel
+*https://squashapps.com/blog/javascript-mvc-frameworks/
+-------------------------------------------+
+Longlist: Waarom ...? + pro's en con's
+
+React:
++ high performance, flexibel, grote community
+- het werkt met JSX en niet gewoon met JS
+Vue:
++ Makkelijke leercurve, zeer flexibel
+- kleine community
+Angular.js:
++ heeft van zichzelf al form validation, makkelijk te debuggen
+- hoge leercurve, werkt lastig met te veel data
+Backbone.js:'
++ wordt gebruikt door grote webapps zoals Wordpress en Hulu, makkelijk te begrijpen en een oke leercurve
+- heeft plugins nodig om compleet te zijn
+
+Shortlist: Waarom ...? + pro's en con's
+
+Laravel:
+
 
 
