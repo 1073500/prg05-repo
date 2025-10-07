@@ -147,9 +147,9 @@ Les 2
 ------------------------------------------+
 Longlist: Waarom ...? + pro's en con's
 
-reserve: Phalcon, FuelPHP
+reserve voor longlist: Phalcon, FuelPHP, Symfony
 
-1.CakePHP:
+1. CakePHP:
 + heeft SQL injection preventie en CSRF protection.
 - Minder flexibel, kan langzaam zijn bij veel inspanning.
 2. Spring
@@ -182,7 +182,7 @@ Laravel:
 - heel veel functies zijn lastig, waardoor de leercurve moeilijker wordt.
 
 CakePHP: 
-
+...
 
 Nest.js: 
 Nest js gebruikt typescript (js) en ik verwacht dat het een makkelijke leercurve heeft.
