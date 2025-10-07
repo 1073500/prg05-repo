@@ -175,6 +175,9 @@ reserve voor longlist: Phalcon, FuelPHP, Symfony
 8. Nest.js: https://medium.com/@emperorbrains/advantages-and-disadvantages-of-node-js-reasons-to-choose-or-avoid-node-js-ed93cc895b48
 + gebruikt typescript (js), efficient, asynchronous, grote community
 - security problemen, errors zijn lastig te debuggen.
+9. Codelgniter: https://www.savvyonweb.com/blog/pros-and-cons-of-codeigniter-framework
++ Makkelijke leercurve, geen zware files, built in security features, flexibel, volledig php
+- libraries zijn niet zo extended als moderne libraries, het bied alleen simpele features.
 
 
 *Shortlist: Waarom ...? + pro's en con's
@@ -187,7 +190,7 @@ CakePHP:
 ...
 
 Nest.js: 
-Nest js gebruikt typescript (js) en ik verwacht dat het een makkelijke leercurve heeft.
+Codelgniter is snel te leren en niet complex aan de andere kant biedt het weinig dus ben ik benieuwd wat ik allemaal kan met deze framework.
 -------------------------------------------------------------------------------------------+
 Verkenning 2 frameworks:
 Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, tutorial, community)
@@ -195,14 +198,13 @@ Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, 
 *CakePHP: turtorial 
 
 Installatie:
-De installatie verliep gemakkelijk, vooral door de turtorial.
+De installatie verliep gemakkelijk, vooral door de turtorial. Ook waren de problemen makkelijk op te lossen.
 
 Leercurve: 
 
 Ondersteuning:
 > https://www.youtube.com/watch?v=lZweiKSw1cI
 Installatie pagina cakephp
-
 
 
 *Nest.js:
