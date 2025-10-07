@@ -134,36 +134,52 @@ Alles liep uiteindelijk goed, maar het aanmaken van de controller is nog onduide
 Onderzoek frameworks:
 
 Ik ga eerst kijken naar 8 mogelijke frameworks om er 6 te laten vallen.
-De taal is belangrijk, want ik ben bijvoorbeeld niet bekend met Ruby of Python, dus ga ik ook niet kiezen voor die frameworks.
-Hierom ga ik kijken naar frameworks die js als taal gebruiken en MVC volgen.
+De taal is belangrijk, want ik ben bijvoorbeeld niet bekend met Ruby of Python, dus gaat mijn voorkeur naar frameworks die met js werken.
 
-Mogelijke frameworks: React, Vue, Angular.js, Backbone.js
+Mogelijke frameworks: React, Vue, Angular.js, Backbone.js...
 *https://astro.deployn.de/blog/comparing-mvc-frameworks/
 *https://centralsoft.io/en/blog/posts/what-are-some-of-the-frameworks-that-follow-mvc-architectural-pattern#laravel
 *https://squashapps.com/blog/javascript-mvc-frameworks/
--------------------------------------------+
+*https://acropolium.com/blog/most-popular-backend-frameworks-in-2021-2022-pros-and-cons-what-to-choose/
+--------------------------------------------------------------------------------+
 Longlist: Waarom ...? + pro's en con's
 
-React:
+1.React:
 + high performance, flexibel, grote community
 - het werkt met JSX en niet gewoon met JS
-Vue:
+2.Vue:
 + Makkelijke leercurve, zeer flexibel
 - kleine community
-Angular.js:
+3.Angular.js:
 + heeft van zichzelf al form validation, makkelijk te debuggen
-- hoge leercurve, werkt lastig met te veel data
-Backbone.js:'
+- hoge leercurve, werkt lastig met te veel data, kan gebruikt worden voor backend maar niet aanbevolen.
+*https://medium.com/@infiraise/is-angular-frontend-or-backend-816ee236f592
+4.Backbone.js:'
 + wordt gebruikt door grote webapps zoals Wordpress en Hulu, makkelijk te begrijpen en een oke leercurve
 - heeft plugins nodig om compleet te zijn
+5. Django
++ lage leercurve dus makkelijk te gebruiken, heeft een build in bescherming tegen sql injections en cross-scripting. 
+- kost tijd en je hebt kennis nodig, python
+6. ASP.NET
++ snelle app development omdat je minder hoeft te coderen, C# levert een gemakkelijke gebruikers ervaring.
+- gebruikt C#, minder controle, licentie kost geld.
+7. Express (met Node.js)
++ Makkelijke leercurve vooral als je al met js werkt, high performance, code kan gerunt worden op elke platform.
+- Asynchronous programming
+8. Ionic
++ gebaseerd op html en css, gebruikersvriendelijk, grote aanbod van api's.
+- zware app door grote file sizes, live reloading, grotere platforms zijn lastiger te maken.
+
 
 Shortlist: Waarom ...? + pro's en con's
 
 Laravel:
-+
--
++ beste backend framework van 2023, gebruikers authenticatie is simpel, API integrations voor mail service, simpele data catching
+- heel veel functies zijn lastig, waardoor de leercurve moeilijker wordt.
+
 Vue: 
 Ik heb gekozen voor vue, omdat de pro's heel goed zijn ten opzichte van de con's. Het feit dat Vue een kleine community heeft vind ik niet heel erg.
+
 Backbone.js: 
 Backbone wordt gebruikt door gote webapps dus is de communitty ook groter en daarbij heeft het een makkelijke leercurves. Het niet erg om wat plugins erbij te downloaden.
 
