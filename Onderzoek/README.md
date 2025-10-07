@@ -141,14 +141,17 @@ Mogelijke frameworks: React, Vue, Angular.js, Backbone.js...
 *https://centralsoft.io/en/blog/posts/what-are-some-of-the-frameworks-that-follow-mvc-architectural-pattern#laravel
 *https://squashapps.com/blog/javascript-mvc-frameworks/
 *https://acropolium.com/blog/most-popular-backend-frameworks-in-2021-2022-pros-and-cons-what-to-choose/
+*https://www.geeksforgeeks.org/blogs/php-frameworks/#cakephp
 --------------------------------------------------------------------------------+
 Les 2
 ------------------------------------------+
 Longlist: Waarom ...? + pro's en con's
 
-1.React:
-+ high performance, flexibel, grote community
-- het werkt met JSX en niet gewoon met JS
+reserve: Phalcon, FuelPHP
+
+1.CakePHP:
++ heeft SQL injection preventie en CSRF protection.
+- Minder flexibel, kan langzaam zijn bij veel inspanning.
 2. Spring
 + Weinig tijd nodig
 - Java, te complex
@@ -156,8 +159,8 @@ Longlist: Waarom ...? + pro's en con's
 + een oke leercurve, oke performance, goed voor web applications en een grote community
 - kan langzaam zijn
 4. Flask
-+ 
-- 
++ lightweight, makkelijke leercurve, flexibel
+- python, kan snel lastig worden, meerdere requests tegelijk kan langzaam zijn.
 5. Django
 + lage leercurve dus makkelijk te gebruiken, heeft een build in bescherming tegen sql injections en cross-scripting. 
 - kost tijd en je hebt kennis nodig, python
@@ -167,9 +170,9 @@ Longlist: Waarom ...? + pro's en con's
 7. Express (met Node.js)
 + Makkelijke leercurve vooral als je al met js werkt, high performance, code kan gerunt worden op elke platform.
 - Asynchronous programming
-8. Nest.js
-+ 
-- 
+8. Nest.js: https://medium.com/@emperorbrains/advantages-and-disadvantages-of-node-js-reasons-to-choose-or-avoid-node-js-ed93cc895b48
++ gebruikt typescript (js), efficient, asynchronous, grote community
+- security problemen, errors zijn lastig te debuggen.
 
 
 Shortlist: Waarom ...? + pro's en con's
@@ -178,8 +181,9 @@ Laravel:
 + beste backend framework van 2023, gebruikers authenticatie is simpel, API integrations voor mail service, simpele data catching
 - heel veel functies zijn lastig, waardoor de leercurve moeilijker wordt.
 
-Express: 
+CakePHP: 
 
 
-Ruby: 
+Nest.js: 
+Nest js gebruikt typescript (js) en ik verwacht dat het een makkelijke leercurve heeft.
 
