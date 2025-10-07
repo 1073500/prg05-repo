@@ -80,6 +80,12 @@ Met de view rendert hij een een final output.
 --------------------------------------------------------------------------+
 Les 1 > https://brightspace.hr.nl/d2l/le/lessons/192850/topics/919243
 
+    |
+-----
+    |
+    |
+    |
+
 -----------------------------------------------------------------------+
 Herhaling:
 
@@ -146,6 +152,11 @@ Mogelijke frameworks: React, Vue, Angular.js, Backbone.js...
 *https://www.geeksforgeeks.org/blogs/php-frameworks/#cakephp
 --------------------------------------------------------------------------------+
 Les 2
+ -----
+|     |
+   ---
+|
+-------
 ------------------------------------------+
 *Longlist: Waarom ...? + pro's en con's
 
@@ -195,7 +206,7 @@ Codelgniter is snel te leren en niet complex aan de andere kant biedt het weinig
 Verkenning 2 frameworks:
 Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, tutorial, community)
 
-*CakePHP: turtorial 
+*CakePHP
 
 Installatie:
 De installatie verliep gemakkelijk, vooral door de turtorial. Ook waren de problemen makkelijk op te lossen.
@@ -206,12 +217,18 @@ Ondersteuning:
 > https://www.youtube.com/watch?v=lZweiKSw1cI
 Installatie pagina cakephp
 
+----------------+
 
-*Nest.js:
+*Codelgniter
 
-Installatie:
+Installatie: 
+Over het algemeen verliep de installatie goed. Het was wel een beetje prutsen met de localhost, maar uiteindelijk kwam dat goed.
 
 Leercurve: 
 
 Ondersteuning:
+https://www.youtube.com/watch?v=VkMozngSyew
+https://www.youtube.com/watch?v=UrVzAp01_3w
+ChatGPT
+https://codeigniter.com/user_guide/installation/running.html
 
