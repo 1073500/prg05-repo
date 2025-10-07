@@ -190,6 +190,8 @@ reserve voor longlist: Phalcon, FuelPHP, Symfony
 + Makkelijke leercurve, geen zware files, built in security features, flexibel, volledig php
 - libraries zijn niet zo extended als moderne libraries, het bied alleen simpele features.
 
+Wat valt op?: 
+
 
 *Shortlist: Waarom ...? + pro's en con's
 
@@ -202,6 +204,8 @@ CakePHP:
 
 Nest.js: 
 Codelgniter is snel te leren en niet complex aan de andere kant biedt het weinig dus ben ik benieuwd wat ik allemaal kan met deze framework.
+
+Wat valt op?: 
 -------------------------------------------------------------------------------------------+
 Verkenning 2 frameworks:
 Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, tutorial, community)
