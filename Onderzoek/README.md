@@ -160,6 +160,11 @@ Backbone.js:'
 Shortlist: Waarom ...? + pro's en con's
 
 Laravel:
-
++
+-
+Vue: 
+Ik heb gekozen voor vue, omdat de pro's heel goed zijn ten opzichte van de con's. Het feit dat Vue een kleine community heeft vind ik niet heel erg.
+Backbone.js: 
+Backbone wordt gebruikt door gote webapps dus is de communitty ook groter en daarbij heeft het een makkelijke leercurves. Het niet erg om wat plugins erbij te downloaden.
 
 
