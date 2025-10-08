@@ -92,7 +92,7 @@ Herhaling:
 Functie altijd te herkennen aan: showFunction(,)
 
 --------------------------------------------------------+
-Installatie:
+Installatie: ! Blijkbaar breeze vergeten
 
 Eerste error, omdat ik dacht dat de tutorial vanaf scatch begon :|
 Status: na 2 errors en hulp van Bob gelukt!
@@ -207,8 +207,16 @@ Codelgniter is snel te leren en niet complex aan de andere kant biedt het weinig
 
 Wat valt op?: 
 -------------------------------------------------------------------------------------------+
-Verkenning 2 frameworks:
+Verkenning 2 frameworks + laravel
 Vertel over installatiegemak, leercurve, gebruikte ondersteuning (documentatie, tutorial, community)
+
+*Laravel
+
+Installatie:
+
+Leercurve:
+
+Ondersteuning:
 
 *CakePHP
 
